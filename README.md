@@ -15,6 +15,7 @@ Basic Operations in python
 
 # Day 3
 Conditional and loops in python
+
 ![Screenshot (323)](https://user-images.githubusercontent.com/67910573/119878745-212bc800-bf48-11eb-80c3-ef5e34853fbb.png)
 ![Screenshot (322)](https://user-images.githubusercontent.com/67910573/119878749-22f58b80-bf48-11eb-8b46-cb209eb2b8ab.png)
 
