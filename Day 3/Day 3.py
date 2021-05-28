@@ -106,9 +106,6 @@ else:
         print("c is greatest")
 print("--------------------------------------------------------------------")
 print("13.Take 3 numbers and find smallest number using logical operator.")
-
-print("--------------------------------------------------------------------")
-print("13.Take 3 numbers and find greatest number using logical operator.")
 a,b,c = int(input("Enter three numbers: ")),int(input()),int(input())
 if a>b and a>c:
     print(a," is greatest")
