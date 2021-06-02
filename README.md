@@ -34,3 +34,8 @@ Object oriented programming concepts  in python
 
 ![Screenshot (327)](https://user-images.githubusercontent.com/67910573/120239731-8c450980-c27c-11eb-8975-3f58ad2f14ef.png)
 ![Screenshot (328)](https://user-images.githubusercontent.com/67910573/120239723-87805580-c27c-11eb-8d36-139422e6a3df.png)
+
+
+# Day 6
+![Screenshot (333)](https://user-images.githubusercontent.com/67910573/120532054-eb318c80-c3fc-11eb-9b6e-5e996dc1ef9b.png)
+![Screenshot (335)](https://user-images.githubusercontent.com/67910573/120532066-ed93e680-c3fc-11eb-9dbd-179902ddc3a0.png)
