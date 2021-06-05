@@ -39,3 +39,21 @@ Object oriented programming concepts  in python
 # Day 6
 ![Screenshot (333)](https://user-images.githubusercontent.com/67910573/120532054-eb318c80-c3fc-11eb-9b6e-5e996dc1ef9b.png)
 ![Screenshot (335)](https://user-images.githubusercontent.com/67910573/120532066-ed93e680-c3fc-11eb-9dbd-179902ddc3a0.png)
+
+
+# Day 7
+
+learn to manage http request and response in django
+
+![Screenshot (338)](https://user-images.githubusercontent.com/67910573/120654655-87ac6b00-c49f-11eb-9f68-d8c64d3cb836.png)
+![Screenshot (337)](https://user-images.githubusercontent.com/67910573/120654666-8a0ec500-c49f-11eb-9675-bb386b9d76f2.png)
+![Screenshot (336)](https://user-images.githubusercontent.com/67910573/120654670-8aa75b80-c49f-11eb-85dd-8a1cee7829a2.png)
+
+# Day 8
+
+Theme integration in django
+
+![Screenshot (341)](https://user-images.githubusercontent.com/67910573/120889833-aab05980-c61c-11eb-812d-dac1a3e9dc79.png)
+![Screenshot (340)](https://user-images.githubusercontent.com/67910573/120889837-ad12b380-c61c-11eb-933c-d5539da001b1.png)
+![Screenshot (339)](https://user-images.githubusercontent.com/67910573/120889838-aedc7700-c61c-11eb-8358-63c09cc3ae6f.png)
+
