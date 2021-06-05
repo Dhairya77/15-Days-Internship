@@ -57,3 +57,8 @@ Theme integration in django
 ![Screenshot (340)](https://user-images.githubusercontent.com/67910573/120889837-ad12b380-c61c-11eb-933c-d5539da001b1.png)
 ![Screenshot (339)](https://user-images.githubusercontent.com/67910573/120889838-aedc7700-c61c-11eb-8358-63c09cc3ae6f.png)
 
+# Day 9
+
+Get Post method use
+![Screenshot (343)](https://user-images.githubusercontent.com/67910573/120895830-62a12f00-c63c-11eb-9616-607c1b98cfa4.png)
+![Screenshot (342)](https://user-images.githubusercontent.com/67910573/120895872-8f554680-c63c-11eb-9c07-815d0bdf6ade.png)
