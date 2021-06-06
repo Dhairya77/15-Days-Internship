@@ -62,3 +62,10 @@ Theme integration in django
 Get Post method use
 ![Screenshot (343)](https://user-images.githubusercontent.com/67910573/120895830-62a12f00-c63c-11eb-9616-607c1b98cfa4.png)
 ![Screenshot (342)](https://user-images.githubusercontent.com/67910573/120895872-8f554680-c63c-11eb-9c07-815d0bdf6ade.png)
+
+# Signup form
+
+Data display on another page
+
+![Screenshot (345)](https://user-images.githubusercontent.com/67910573/120936675-aff9cb00-c726-11eb-9b0e-392a5d603e1c.png)
+![Screenshot (344)](https://user-images.githubusercontent.com/67910573/120936680-b1c38e80-c726-11eb-829a-c1c31c73ef33.png)
