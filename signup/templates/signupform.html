@@ -1,0 +1,25 @@
+ {% load static %}
+<html>
+<head>
+<title>Registration</title>
+<link rel="stylesheet" href="{% static 'CSS/index.css' %}">
+</head>
+<body>
+<div class="container">
+    Register Your self<hr>
+    <form method="post" action="/verify">
+    {% csrf_token %}
+        <div style="text-align:left"> First Name <br><br> <input type="text" name="fname" required></div>
+        <br>
+        <div style="text-align:left">Last Name  <br><br> <input type="text" name="lname" required></div>
+        <br>
+        <div style="text-align:left">E-mail <br>    <br> <input type="email" name="mail" required></div>
+        <br>
+        <div style="text-align:left">Password   <br> <br><input type="password" name="password" required></div>
+        <br>
+        <input type="submit" class="button" value="Register" >
+        <br>
+    </form>
+</div>
+</body>
+</html>
