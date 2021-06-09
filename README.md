@@ -69,3 +69,18 @@ Data display on another page
 
 ![Screenshot (345)](https://user-images.githubusercontent.com/67910573/120936675-aff9cb00-c726-11eb-9b0e-392a5d603e1c.png)
 ![Screenshot (344)](https://user-images.githubusercontent.com/67910573/120936680-b1c38e80-c726-11eb-829a-c1c31c73ef33.png)
+
+
+# Day 10
+
+Made migragrations to perform CRUD oprerations
+
+![Screenshot (354)](https://user-images.githubusercontent.com/67910573/121410996-c9964f00-c980-11eb-931f-a4b47afc686b.png)
+
+Django admin panel interections
+
+![Screenshot (356)](https://user-images.githubusercontent.com/67910573/121411104-e599f080-c980-11eb-8975-b6a9bb1f9474.png)
+
+Data display on user side
+
+![Screenshot (355)](https://user-images.githubusercontent.com/67910573/121411196-019d9200-c981-11eb-9b04-6a7852ee94d0.png)
