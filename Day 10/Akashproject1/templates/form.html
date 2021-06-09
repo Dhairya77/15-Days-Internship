@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+{% block content %}
+    <form method="post" action="/formprocess">
+        {% csrf_token %}
+        No 1 : <input type="number" name="no1" required>
+        NO 2 : <input type="number" name="no2" required>
+        <input type="submit" value="SUBMIT" name="submit"></td>
+    </form>
+{% endblock content %}
